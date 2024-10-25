@@ -1,1 +1,1 @@
-# tracking_MOT20_MOT17
+# Résultats des systèmes de tracking réalisés avec DeepSort et YOLO
